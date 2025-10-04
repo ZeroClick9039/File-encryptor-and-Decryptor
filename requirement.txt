@@ -1,0 +1,3 @@
+# Encryptor-Decryptor requirements
+# Uses only Python standard libraries: customtkinter, tkinter, pycryptodom, os
+pythonb>=3.7
